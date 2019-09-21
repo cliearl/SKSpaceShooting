@@ -1,0 +1,6 @@
+framework module Pods_SpaceShooting {
+  umbrella header "Pods-SpaceShooting-umbrella.h"
+
+  export *
+  module * { export * }
+}
