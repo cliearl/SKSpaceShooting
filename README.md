@@ -1,5 +1,9 @@
 # SKSpaceShooting
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-kJKCyQnzcw
+" target="_blank"><img src="http://img.youtube.com/vi/-kJKCyQnzcw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+
 이 저장소는 Udemy와 인프런에서 수강할 수 있는 Swift 5와 SpriteKit으로 만들어보는 iOS 2D 슈팅게임 이라는 강의용 샘플코드입니다.
 
 Udemy 강의 주소<br>
