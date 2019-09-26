@@ -1,4 +1,4 @@
-# SKSpaceShooting
+# Swift 5와 SpriteKit으로 만들어보는 iOS 2D 슈팅게임
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-kJKCyQnzcw
 " target="_blank"><img src="http://img.youtube.com/vi/-kJKCyQnzcw/0.jpg" 
